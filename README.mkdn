@@ -13,7 +13,9 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the CyanMobile tree, use a command like this:
 
-    repo init -u git://github.com/CyanMobile/android_cyanmobile.git -b gingerbread
+===== Fixed sVox Repo 011616 ======
+
+    repo init -u git://github.com/Dm47021/android_cyanmobile.git -b gingerbread
 
 Then to sync up:
 
